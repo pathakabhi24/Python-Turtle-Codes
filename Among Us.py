@@ -1,12 +1,14 @@
 import turtle
 
 color1 = 'yellow'
-color2 = ''
+# color2 = ''
 color3 = 'skyblue'
-color4 = ''
+# color4 = ''
 
-s = turtle.getscreen()
+# s = turtle.getscreen()
 t = turtle.Turtle()
+s = turtle.Screen()
+s.bgcolor("red")
 
 
 def jiu():
